@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F4ED8FE-09CB-171C-ABAD-E1A3B62E02E8}|Assembly-CSharp.csproj|c:\\users\\korisnik\\documents\\projects\\stupid-battle-royale\\stupid battle royale\\assets\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F4ED8FE-09CB-171C-ABAD-E1A3B62E02E8}|Assembly-CSharp.csproj|solutionrelative:assets\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F4ED8FE-09CB-171C-ABAD-E1A3B62E02E8}|Assembly-CSharp.csproj|c:\\users\\korisnik\\documents\\projects\\stupid-battle-royale\\stupid battle royale\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4ED8FE-09CB-171C-ABAD-E1A3B62E02E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4ED8FE-09CB-171C-ABAD-E1A3B62E02E8}|Assembly-CSharp.csproj|c:\\users\\korisnik\\documents\\projects\\stupid-battle-royale\\stupid battle royale\\assets\\scripts\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4ED8FE-09CB-171C-ABAD-E1A3B62E02E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\MovementScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MovementScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\PlayerCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\deafultFov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,19 +35,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerCamera.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\PlayerCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerCamera.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\PlayerCamera.cs",
-              "RelativeToolTip": "Assets\\PlayerCamera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:19:12.45Z",
+              "WhenOpened": "2024-11-26T18:37:55.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCamera.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\PlayerCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:37:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovementScript.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\MovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementScript.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\Scripts\\MovementScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:00:11.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCamera.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\PlayerCamera.cs",
+              "RelativeToolTip": "Assets\\PlayerCamera.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:19:12.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "deafultFov.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\Projects\\stupid-battle-royale\\stupid battle royale\\Assets\\deafultFov.cs",
               "RelativeDocumentMoniker": "Assets\\deafultFov.cs",
